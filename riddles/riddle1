@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: #000000;
+                text-align: center;
+                margin-top: 90px;
+            }
+            .white-text {
+                color: #ffffff;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="white-text">Riddle One</h1>
+        <p class="white-text">The person who made it does not need it. The person who bought it does not want it. The person who needs it does not know it. What is it?</p>
+
+        <label for="r1answer" class="white-text">Answer:</label>
+        <input type="text" id="r1answer" name="r1answer"><br><br>
+        <a href="../cutscene2/cutscene2.1.html" class="white-text">Submit</a>
+    </body>
+</html>
